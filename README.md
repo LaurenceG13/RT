@@ -1,7 +1,7 @@
 # RT
 4th project of [42 School](https://www.42.fr) Computer Graphics Branch.
 
-This project is realized by a group of 4 students.
+This project was completed by a team of 4 students.
 
 ## Description
 
