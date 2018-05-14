@@ -69,7 +69,7 @@ $> ./RT file/file.rt
     <td align="center"><img src="./img/left-click.png" width="35" height="35" alt="left-click"><img src="./img/cursor.png" width="35" height="35" alt="cursor"></td>
   </tr>
   </tr>
-    <td valign="top" height="30px">Left lick on the object : scroll with the mouse wheel to move along the Z axis</td>
+    <td valign="top" height="30px">Left click on the object : scroll with the mouse wheel to move along the Z axis</td>
     <td align="center"><img src="./img/left-click.png" width="35" height="35" alt="mouse"><img src="./img/mouse.png" width="35" height="35" alt="mouse"></td>
   </tr>
   </tr>
